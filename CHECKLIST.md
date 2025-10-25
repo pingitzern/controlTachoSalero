@@ -30,7 +30,7 @@
 
 ### Paso 3: Primera Puesta en Marcha
 - [ ] Mensaje de bienvenida visible en LCD
-- [ ] LCD muestra "ControlTacho Salero v1.0"
+- [ ] LCD muestra "ControlTacho" en línea 1 y "Salero v1.0" en línea 2
 - [ ] Después de 2 segundos, cambia a pantalla principal
 - [ ] Pantalla principal muestra "Dist:" y "Nivel:"
 - [ ] Los valores cambian cuando mueves objetos frente al sensor
